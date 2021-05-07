@@ -6,5 +6,6 @@
 
 關於[Arduino 首次接觸就上手](https://robotkingdom.com.tw/product/grove-beginner-kit-for-arduino-presell/)電子教學套件，我們已經寫了非常完整的[基礎教學](https://cavedu.gitbook.io/cavedu/hangeekduino)，您可以選用 Arduino 類C語法或專用的 HangeekDuino 圖形介面來開發。
 
-![alt text](https://gblobscdn.gitbook.com/assets%2F-LaZQFBYOS3O0ksiEmR1%2F-MJ_c21JcFk9_21uTE92%2F-MJ_c9PvxtGH5YkDrAaL%2F%5BRK%E5%95%86%E5%9F%8E%5DGrove%20Beginner%20Kit%20for%20Arduino-770X555-02.jpg "Arduino 首次接觸就上手")
+<img src=https://gblobscdn.gitbook.com/assets%2F-LaZQFBYOS3O0ksiEmR1%2F-MJ_c21JcFk9_21uTE92%2F-MJ_c9PvxtGH5YkDrAaL%2F%5BRK%E5%95%86%E5%9F%8E%5DGrove%20Beginner%20Kit%20for%20Arduino-770X555-02.jpg width="400" height="">
+
 
